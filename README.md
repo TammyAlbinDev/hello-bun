@@ -1,15 +1,5 @@
-# codex-level-2
+# hello-bun
 
-To install dependencies:
+This is my first Bun project.
+I used this project to learn the Git ACP workflow and how to push changes to GitHub.
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.14. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
