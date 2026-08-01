@@ -9,3 +9,5 @@ Yesterday I practiced using Git and Github
 Yesterday I practiced the ACP workflow and pushed my project to GitHub.
 
 pwd fans and ls fans my debate.
+
+Always run git status before committing to see what has changed.
