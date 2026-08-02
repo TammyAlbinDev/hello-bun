@@ -9,7 +9,7 @@ I want to continue learning Git and GitHub while building more JavaScript projec
 
 ### Jokes
 
-.  Why did the tree got to the dentist?
+.  Why did the tree go to the dentist?
 
   Because it needed a root canal!!
 
