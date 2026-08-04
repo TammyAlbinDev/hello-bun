@@ -18,3 +18,5 @@ I want to continue learning Git and GitHub while building more JavaScript projec
 .  What do you call a tree that can do math?
 
   Geome-tree!!
+
+#### What I learned
