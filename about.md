@@ -3,3 +3,5 @@ Pray for me.  :heart:
 
 
 My favorite emoji is :heart:
+
+This level is a bit challenging till you learn the codes you need to make everything work on the terminal and in github.
